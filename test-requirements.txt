@@ -1,0 +1,2 @@
+flake8
+os-testr>=0.4.1 # Apache-2.0
